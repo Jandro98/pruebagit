@@ -1,0 +1,8 @@
+Holitas jiji
+
+#ignorar los ficheros .class y el directorio tmp
+*.class
+/tmp
+desktop.ini
+/build
+*.jar
